@@ -1,0 +1,57 @@
+﻿@model List<DVD.Web.Models.DVDCopyModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddDVDCopy" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                DVD Number
+            </th>
+            <th>
+                Date Purchased
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @i
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DVDNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatePurchased)
+            </td>
+            <td>
+                <a href="/DVDCopy/UpdateDVDCopy?id=@item.CopyNumber">Edit</a> |
+                <a href="/DVDCopy/DeleteDVDCopy?id=@item.CopyNumber">Delete</a>
+            </td>
+        </tr>
+            i++;
+        }
+    </tbody>
+</table>

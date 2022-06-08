@@ -1,0 +1,394 @@
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.AssemblyInfoInputs.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.AssemblyInfo.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.csproj.CoreCompileInputs.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorAssemblyInfo.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorAssemblyInfo.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.csprojAssemblyReference.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\appsettings.Development.json
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\appsettings.json
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.exe
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.deps.json
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.runtimeconfig.json
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.runtimeconfig.dev.json
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ref\DVD.Web.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.Views.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.Views.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\EntityFramework.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Humanizer.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.Mvc.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.Razor.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.Helpers.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.WebPages.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\staticwebassets\DVD.Web.StaticWebAssets.Manifest.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\staticwebassets\DVD.Web.StaticWebAssets.xml
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\scopedcss\bundle\DVD.Web.styles.css
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.TagHelpers.input.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.TagHelpers.output.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorCoreGenerate.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Actor\AddActor.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCategory\AddDVDCategory.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCategory\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCategory\UpdateDVDCategory.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCopy\AddDVDCopy.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCopy\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCopy\UpdateDVDCopy.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\LoanType\AddLoanType.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\LoanType\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\LoanType\UpdateLoanType.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\MembershipCategory\AddMembershipCategory.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\MembershipCategory\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\MembershipCategory\UpdateMembershipCategory.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Member\AddMember.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Member\UpdateMember.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Producer\AddProducer.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Producer\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Studio\AddStudio.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Studio\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Studio\UpdateStudio.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\User\AddUser.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\User\UpdateUser.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorTargetAssemblyInfo.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorTargetAssemblyInfo.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.Views.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.csproj.CopyComplete
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\ref\DVD.Web.dll
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.pdb
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.genruntimeconfig.cache
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Loan\Index.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Loan\AddLoan.cshtml.g.cs
+F:\DVD Project\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Loan\UpdateLoan.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.StaticWebAssets.xml
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.exe
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.deps.json
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.runtimeconfig.json
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.runtimeconfig.dev.json
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.Views.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\DVD.Web.Views.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.csproj.AssemblyReference.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.AssemblyInfoInputs.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.AssemblyInfo.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.csproj.CoreCompileInputs.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorAssemblyInfo.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorAssemblyInfo.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\scopedcss\bundle\DVD.Web.styles.css
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\staticwebassets\DVD.Web.StaticWebAssets.Manifest.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.TagHelpers.input.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.TagHelpers.output.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorCoreGenerate.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Actor\AddActor.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Actor\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Actor\UpdateActor.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCategory\AddDVDCategory.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCategory\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCategory\UpdateDVDCategory.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCopy\AddDVDCopy.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCopy\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\DVDCopy\UpdateDVDCopy.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\LoanType\AddLoanType.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\LoanType\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\LoanType\UpdateLoanType.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Loan\AddLoan.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Loan\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Loan\UpdateLoan.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\MembershipCategory\AddMembershipCategory.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\MembershipCategory\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\MembershipCategory\UpdateMembershipCategory.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Member\AddMember.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Member\UpdateMember.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Producer\AddProducer.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Producer\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Producer\UpdateProducer.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Studio\AddStudio.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Studio\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\Studio\UpdateStudio.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\User\AddUser.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\User\UpdateUser.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.Views.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.csproj.CopyComplete
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\refint\DVD.Web.dll
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.pdb
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\DVD.Web.genruntimeconfig.cache
+C:\Users\Dipendra\source\repos\DVD\DVD.Web\DVD.Web\obj\Debug\net5.0\ref\DVD.Web.dll

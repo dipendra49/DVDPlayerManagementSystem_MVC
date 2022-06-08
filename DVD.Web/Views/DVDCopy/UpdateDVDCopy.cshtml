@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "UpdateDVDCopy";
+}
+@model DVD.Web.Models.DVDCopyModel
+
+@{
+    ViewData["Title"] = "UpdateDVDCopy";
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Update DVD Copy</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("UpdateDVDCopy", "DVDCopy", FormMethod.Post, new { @role = "form", @id = "UpdateDVDCopy" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(x=>x.CopyNumber)
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DVDNumber" class="control-label"></label>
+                @Html.DropDownListFor(x => x.DVDNumber, Model.DVDTitleList, new { @class = "form-control" })
+                <span asp-validation-for="DVDNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DatePurchased" class="control-label"></label>
+                @Html.TextBoxFor(x => x.DatePurchased, new { @type = "date", @class = "form-control", @placeholder = "Date Purchased" })
+                <span asp-validation-for="DatePurchased" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-outline-primary" />
+                <a asp-action="Index" class="btn btn-outline-danger">Back to List</a>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

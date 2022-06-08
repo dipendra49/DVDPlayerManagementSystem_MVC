@@ -1,0 +1,51 @@
+﻿@model List<DVD.Web.Models.ProducerModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddProducer" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Producer Name
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProducerName)
+                </td>
+                <td>
+                    <a href="/Producer/UpdateProducer?id=@item.ProducerNumber">Edit</a> |
+                    <a href="/Producer/DeleteProducer?id=@item.ProducerNumber">Delete</a>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

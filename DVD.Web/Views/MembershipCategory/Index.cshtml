@@ -1,0 +1,57 @@
+﻿@model List<DVD.Web.Models.MembershipCategoryModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddMembershipCategory" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Membership Category Description
+            </th>
+            <th>
+                Membership Category Total Loans
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MembershipCategoryDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MembershipCategoryTotalLoans)
+                </td>
+                <td>
+                    <a href="/MembershipCategory/UpdateMembershipCategory?id=@item.MembershipCategoryNumber">Edit</a> |
+                    <a href="/MembershipCategory/DeleteMembershipCategory?id=@item.MembershipCategoryNumber">Delete</a>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

@@ -1,0 +1,56 @@
+﻿@model List<DVD.Web.Models.DVDCategoryModel>
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddDVDCategory" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Category Description
+            </th>
+            <th>
+                Age Restricted
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AgeRestricted)
+                </td>
+                <td>
+                    <a href="/DVDCategory/UpdateDVDCategory?id=@item.CategoryNumber">Edit</a> |
+                    <a href="/DVDCategory/DeleteDVDCategory?id=@item.CategoryNumber">Delete</a>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

@@ -1,0 +1,42 @@
+﻿@model DVD.Web.Models.MembershipCategoryModel
+
+@{
+    ViewData["Title"] = "UpdateMembershipCategory";
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Update Membership Category</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("UpdateMembershipCategory", "MembershipCategory", FormMethod.Post, new { @role = "form", @id = "UpdateMembershipCategory" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(x=>x.MembershipCategoryNumber)
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MembershipCategoryDescription" class="control-label"></label>
+                @Html.TextBoxFor(x => x.MembershipCategoryDescription, new { @class = "form-control", @placeholder = "Membership Category Description" })
+                <span asp-validation-for="MembershipCategoryDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MembershipCategoryTotalLoans" class="control-label"></label>
+                @Html.TextBoxFor(x => x.MembershipCategoryTotalLoans, new { @class = "form-control", @placeholder = "Membership Category Total Loans" })
+                <span asp-validation-for="MembershipCategoryTotalLoans" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-outline-primary" />
+                <a asp-action="Index" class="btn btn-outline-danger">Back to List</a>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

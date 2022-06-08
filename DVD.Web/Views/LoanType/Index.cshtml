@@ -1,0 +1,57 @@
+﻿@model List<DVD.Web.Models.LoanTypeModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddLoanType" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Loan Type
+            </th>
+            <th>
+                Loan Duration
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LoanType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LoanDuration)
+                </td>
+                <td>
+                    <a href="/LoanType/UpdateLoanType?id=@item.LoanTypeNumber">Edit</a> |
+                    <a href="/LoanType/DeleteLoanType?id=@item.LoanTypeNumber">Delete</a>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

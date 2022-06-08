@@ -1,0 +1,5 @@
+CREATE TABLE Producer
+(
+ProducerNumber BIGINT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+ProducerName VARCHAR(250) NULL
+)

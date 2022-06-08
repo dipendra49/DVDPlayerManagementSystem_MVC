@@ -1,0 +1,51 @@
+﻿@model List<DVD.Web.Models.StudioModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddStudio" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Studio Name
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudioName)
+                </td>
+                <td>
+                    <a href="/Studio/UpdateStudio?id=@item.StudioNumber">Edit</a> |
+                    <a href="/Studio/DeleteStudio?id=@item.StudioNumber">Delete</a>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

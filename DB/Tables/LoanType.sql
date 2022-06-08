@@ -1,0 +1,6 @@
+CREATE TABLE LoanType
+(
+LoanTypeNumber BIGINT PRIMARY KEY IDENTITY(18,2),
+LoanType VARCHAR(250),
+LoanDuration DATETIME
+)

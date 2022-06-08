@@ -1,0 +1,81 @@
+﻿@model List<DVD.Web.Models.LoanModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddLoan" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Loan Type
+            </th>
+            <th>
+                DVD Copy
+            </th>
+            <th>
+                Member
+            </th>
+            <th>
+                Date Out
+            </th>
+            <th>
+                Date Due
+            </th>
+            <th>
+                Date Returned
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @i
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoanType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CopyNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Member)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateDue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateReturned)
+            </td>
+            <td>
+                <a href="/Loan/UpdateLoan?id=@item.MemberNumber">Edit</a> |
+                <a href="/Loan/DeleteLoan?id=@item.MemberNumber">Delete</a>
+            </td>
+        </tr>
+            i++;
+        }
+    </tbody>
+</table>

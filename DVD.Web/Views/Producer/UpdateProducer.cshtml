@@ -1,0 +1,37 @@
+﻿@model DVD.Web.Models.ProducerModel
+
+@{
+    ViewData["Title"] = "UpdateProducer";
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Update Producer</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("UpdateProducer", "Producer", FormMethod.Post, new { @role = "form", @id = "UpdateProducer" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(x => x.ProducerNumber)
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProducerName" class="control-label"></label>
+                @Html.TextBoxFor(x => x.ProducerName, new { @class = "form-control", @placeholder = "Producer Name" })
+                <span asp-validation-for="ProducerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-outline-primary" />
+                <a asp-action="Index" class="btn btn-outline-danger">Back to List</a>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

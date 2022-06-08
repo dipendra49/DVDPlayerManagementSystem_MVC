@@ -1,0 +1,6 @@
+CREATE TABLE Actor
+(
+ActorNumber BIGINT PRIMARY KEY IDENTITY(1,1),
+ActorSurname VARCHAR(250),
+ActorFirstName VARCHAR(250)
+)

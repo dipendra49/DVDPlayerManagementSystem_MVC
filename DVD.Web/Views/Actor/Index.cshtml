@@ -1,0 +1,57 @@
+﻿@model List<DVD.Web.Models.ActorModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddActor" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Actor First Name
+            </th>
+            <th>
+                Actor Surname
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @i
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActorFirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActorSurname)
+                </td>
+                <td>
+                    <a href="/Actor/UpdateActor?id=@item.ActorNumber">Edit</a> |
+                    <a href="/Actor/DeleteActor?id=@item.ActorNumber">Delete</a>
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

@@ -1,0 +1,75 @@
+﻿@model List<DVD.Web.Models.MemberModel>
+
+@{
+    ViewData["Title"] = "Index";
+    int i = 1;
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddMember" class="btn btn-outline-success">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                S.N
+            </th>
+            <th>
+                Membership Category
+            </th>
+            <th>
+                Member Last Name
+            </th>
+            <th>
+                Member First Name
+            </th>
+            <th>
+                Member Address
+            </th>
+            <th>
+                Member DOB
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @i
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MembershipCategoryDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberDOB)
+            </td>
+            <td>
+                <a href="/Member/UpdateMember?id=@item.MemberNumber">Edit</a> |
+                <a href="/Member/DeleteMember?id=@item.MemberNumber">Delete</a>
+            </td>
+        </tr>
+            i++;
+        }
+    </tbody>
+</table>

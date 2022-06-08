@@ -1,0 +1,6 @@
+CREATE TABLE DVDCategory
+(
+CategoryNumber BIGINT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+CategoryDescription VARCHAR(250) NULL,
+AgeRestricted INT NULL
+)

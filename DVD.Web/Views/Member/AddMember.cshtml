@@ -1,0 +1,56 @@
+﻿@model DVD.Web.Models.MemberModel
+
+@{
+    ViewData["Title"] = "AddMember";
+    if (ViewData["Error"] != null)
+    {
+        <script>
+                alert("@ViewData["Error"]");
+        </script>
+    }
+}
+
+<h1>Add Member</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @using (Html.BeginForm("AddMember", "Member", FormMethod.Post, new { @role = "form", @id = "AddMember" }))
+        {
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MembershipCategoryNumber" class="control-label"></label>
+                @Html.DropDownListFor(x => x.MembershipCategoryNumber, Model.MembershipCategoryList, new { @class = "form-control" })
+                <span asp-validation-for="MembershipCategoryNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberLastName" class="control-label"></label>
+                @Html.TextBoxFor(x => x.MemberLastName, new { @class = "form-control", @placeholder = "Member Last Name" })
+                <span asp-validation-for="MemberLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberFirstName" class="control-label"></label>
+                @Html.TextBoxFor(x => x.MemberFirstName, new { @class = "form-control", @placeholder = "Member First Name" })
+                <span asp-validation-for="MemberFirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberAddress" class="control-label"></label>
+                @Html.TextBoxFor(x => x.MemberAddress, new { @class = "form-control", @placeholder = "Member Address" })
+                <span asp-validation-for="MemberAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberDOB" class="control-label"></label>
+                @Html.TextBoxFor(x => x.MemberDOB, new { @type = "date", @class = "form-control", @placeholder = "Member DOB" })
+                <span asp-validation-for="MemberDOB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-outline-primary" />
+                <a asp-action="Index" class="btn btn-outline-danger">Back to List</a>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
